@@ -1,13 +1,14 @@
 
-TITLE: 
-Display - Responsive Free HTML5 template
+TITLE: P.E.R.I.T.O
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
+Diógenes Ademir Domingos
 
 
 CREDITS:
+
+Free HTML5 template
+Display - Responsive Free HTML5 template
 
 Bootstrap
 http://getbootstrap.com/
